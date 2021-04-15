@@ -5,10 +5,10 @@ Soy Faustino, desarrollador web junior aspirante al manejo completo de Backend, 
 
 ## Habilidades
 - 👨‍💻 Python, C, Lua
-- 👁️ CSS, Bootstrap
+- 👁️ HTML, CSS, Bootstrap
 - 💽 Django, SQL, Mongo
 
 ## Contacto
 - [@faustinobeatrice](https://www.instagram.com/faustinobeatrice/) en Instagram.
 - [@Faustino Beatrice](https://www.facebook.com/faustinobeatrice) en Facebook.
-- [fstrike7#6638](./) en Discord
+- [fstrike7#6638](./) en Discord.
