@@ -4,9 +4,9 @@ Soy Faustino, desarrollador web junior aspirante al manejo completo de Backend, 
 - 🧑‍🎓 Actualmente curso la carrera de Técnico Superior en Programación, en Teclab Instituto Técnico Superior.
 
 ## Habilidades
-- 👨‍💻 Python, C, Lua
-- 👁️ HTML, CSS, Bootstrap
-- 💽 Django, SQL, Mongo
+- 👨‍💻 Python, C, JavaScript.
+- 👁️ HTML, CSS, Bootstrap.
+- 💽 Django, SQL, NoSQL.
 
 ## Contacto
 - [@faustinobeatrice](https://www.instagram.com/faustinobeatrice/) en Instagram.
