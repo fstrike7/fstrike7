@@ -1,7 +1,9 @@
 ## Hola! 👋
 Soy Faustino, desarrollador web junior aspirante al manejo completo de Backend, 18 años y de Argentina 🇦🇷
 
-- 🧑‍🎓 Actualmente curso la carrera de Técnico Superior en Programación, en Teclab Instituto Técnico Superior.
+- [Proyectos actuales](https://fstrike7.github.io/portafolio/index.html)
+
+-🎓 Actualmente curso la carrera de Técnico Superior en Programación.
 
 ## Habilidades
 - 👨‍💻 Python, C, JavaScript.
