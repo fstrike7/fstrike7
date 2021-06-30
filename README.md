@@ -1,14 +1,12 @@
 ## Hola! 👋
-Soy Faustino, desarrollador web junior aspirante al manejo completo de Backend, 18 años y de Argentina 🇦🇷
-
-- [Proyectos actuales](https://fstrike7.github.io/portafolio/index.html)
-
+Soy Faustino, desarrollador web junior, tengo 19 años y soy de Argentina <br/>
 -🎓 Actualmente curso la carrera de Técnico Superior en Programación.
+- [Portafolio](https://fstrike7.github.io/portafolio/index.html)
 
 ## Habilidades
-- 👨‍💻 Python, C, JavaScript.
-- 👁️ HTML, CSS, Bootstrap.
-- 💽 Django, SQL, NoSQL.
+- 👨‍💻 Python, JavaScript, C++, Java.
+- 👁️ React, Angular, Flexbox CSS.
+- 💽 Django, Node.js, SQL, MongoDB.
 
 ## Contacto
 - [@faustinobeatrice](https://www.instagram.com/faustinobeatrice/) en Instagram.
