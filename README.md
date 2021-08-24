@@ -10,5 +10,4 @@ Soy Faustino, desarrollador web junior, tengo 19 años y soy de Argentina <br/>
 
 ## Contacto
 - [@faustinobeatrice](https://www.instagram.com/faustinobeatrice/) en Instagram.
-- [@Faustino Beatrice](https://www.facebook.com/faustinobeatrice) en Facebook.
 - [fstrike7#6638](./) en Discord.
