@@ -1,8 +1,8 @@
 ## Hola! 👋
 Soy Faustino, estudiante y desarrollador web.<br/>
 - 19 años.
-- 🇦🇷 <br/>
--🎓 Actualmente curso la técnicatura en Programación, estudio Backend en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
+- Argentina
+- 🎓 Actualmente curso la técnicatura en Programación, estudio Backend en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
 - [Portafolio](https://fstrike7.github.io/portafolio/index.html)
 
 ## Habilidades
