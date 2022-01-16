@@ -1,13 +1,15 @@
 ## Hola! 👋
-Soy Faustino, estudiante y desarrollador web, tengo 19 años y soy de Argentina <br/>
--🎓 Actualmente curso la carrera de Técnico Superior en Programación.
+Soy Faustino, estudiante y desarrollador web.<br/>
+- 19 años.
+- 🇦🇷
+-🎓 Actualmente curso la técnicatura en Programación, estudio Backend en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
 - [Portafolio](https://fstrike7.github.io/portafolio/index.html)
 
 ## Habilidades
 - 👨‍💻 Python, JavaScript, .NET, Java.
-- 👁️ React, Svelte, Material UI.
-- 💽 Django/Node.js; SQL/PostgreSQL/Oracle | MongoDB/Redis.
+- 👁️ React, Svelte.
+- 💽 Django/Node.js/Spring; SQL/PostgreSQL/Oracle | MongoDB/Redis.
 
 ## Contacto
-- [@faustinobeatrice](https://www.instagram.com/faustinobeatrice/) en Instagram.
+- [linkedin.com/in/faustino-beatrice](https://www.linkedin.com/in/faustino-beatrice/) en Linkedin.
 - [fstrike7#6638](./) en Discord.
