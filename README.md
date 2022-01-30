@@ -6,7 +6,7 @@ Soy Faustino, estudiante y desarrollador web.<br/>
 - [Portafolio](https://fstrike7.github.io/portafolio/index.html)
 
 ## Habilidades
-- 👨‍💻 Python, JavaScript, .NET, Java.
+- 👨‍💻 Python, JavaScript.
 - 👁️ React, Svelte.
 - 💽 Django/Node.js/Spring; SQL/PostgreSQL/Oracle | MongoDB/Redis.
 
