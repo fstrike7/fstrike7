@@ -1,9 +1,9 @@
 ## Hola! 👋
-Soy Faustino, estudiante y desarrollador web.<br/>
-- 19 años.
-- Argentina
-- 🎓 Actualmente curso la técnicatura en Programación, estudio Backend en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
-- [Portafolio](https://fstrike7.github.io/portafolio/index.html)
+Soy Faustino, me desempeño como Data Engineer en [BB - Business Bureau](http://bb.vision/) y estudio programación.<br/>
+- 🎂 19 años.
+- 🌎 Argentina.
+- 🎓 Actualmente curso la técnicatura en Programación, estudiando en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
+- 💼 [Portafolio](https://fstrike7.github.io/portafolio/index.html)
 
 ## Habilidades
 - 👨‍💻 Python, JavaScript.
