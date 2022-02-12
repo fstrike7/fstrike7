@@ -2,7 +2,7 @@
 Soy Faustino, me desempeño como Data Engineer en [BB - Business Bureau](http://bb.vision/) y estudio programación.<br/>
 - 🎂 19 años.
 - 🌎 Argentina.
-- 🎓 Actualmente curso la técnicatura en Programación, estudiando en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
+- 🎓 Actualmente curso el segundo año de la técnicatura en programación, además de estudiar en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
 - 💼 [Portafolio](https://fstrike7.github.io/portafolio/index.html)
 
 ## Habilidades
