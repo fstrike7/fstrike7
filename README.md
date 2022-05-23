@@ -12,6 +12,5 @@ Soy Faustino, me desempeño como Data Engineer en [BB - Business Bureau](http://
 
 ## Contacto
 - [linkedin.com/in/faustino-beatrice](https://www.linkedin.com/in/faustino-beatrice/) en Linkedin.
-- [fstrike7#6638](./) en Discord.
 
 ![FStrike7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstrike7&show_icons=true&theme=nightowl)
