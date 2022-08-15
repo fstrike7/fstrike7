@@ -1,8 +1,8 @@
 ## Hola! 👋
-Soy Faustino, me desempeño como Data Engineer en [BB - Business Bureau](http://bb.vision/) y estudio programación.<br/>
+Soy Faustino, actualmente soy parte del programa Jovenes de Alto Vuelo en [Despegar](https://www.despegar.com/sumate/#!/jovenes-alto-vuelo) y estudio programación.<br/>
 - 🎂 20 años.
 - 🌎 Argentina.
-- 🎓 Actualmente curso el segundo año de la técnicatura en programación, además de estudiar en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
+- 🎓 Curso el segundo año de la técnicatura en programación, además de estudiar en [CourseIt](https://courseit.io/) y [Código Facilito](https://codigofacilito.com/).
 - 💼 [Portafolio](https://fstrike7.github.io/portafolio/index.html)
 
 ## Habilidades
