@@ -2,7 +2,7 @@
 Soy Faustino, estudiante y desarrollador.
 - 💻 Software Developer en [Despegar](https://www.despegar.com/sumate/#!/)
 - 🌎 Argentina.
-- 💼 [Portafolio](https://fstrike7.github.io/portafolio/index.html)
+- 💼 [Portafolio](https://portfolio-nu-three-52.vercel.app/)
 
 ## Habilidades
 - 👨‍💻 Python, JavaScript.
