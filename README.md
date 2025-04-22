@@ -1,6 +1,6 @@
 ## Hola mundo! 👋
 Soy Faustino, estudiante y desarrollador.
-- 💻 Software Developer en [Despegar](https://www.despegar.com/sumate/#!/)
+- 💻 Software Developer
 - 🌎 Argentina.
 - 💼 [Portafolio](https://portfolio-nu-three-52.vercel.app/)
 
