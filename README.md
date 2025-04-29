@@ -2,6 +2,7 @@
 Soy Faustino, estudiante y desarrollador.
 - 💻 Software Developer
 - 🌎 Argentina.
+- 📃 [CV / Resume](https://github.com/fstrike7/fstrike7/blob/main/resume/es/README.md)
 - 💼 [Portafolio](https://portfolio-nu-three-52.vercel.app/)
 
 ## Habilidades
