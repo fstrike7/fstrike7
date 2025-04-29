@@ -12,7 +12,7 @@ I'm a self-taught software developer with a strong background in backend develop
 
 ## Education
 
-** Data Science certification**
+**Certificate in Data Science**  
 ITBA | 2025 - Currently
 
 **Associate Degree in Programming**  
