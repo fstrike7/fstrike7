@@ -48,7 +48,7 @@ Open-source project combining backend (Django REST), data analysis (Pandas, Matp
 - Allows uploading datasets, performing analysis, and generating visualizations via CLI.  
 - Includes endpoints for automated EDA and predictions.  
 - Advanced visualizations with statistical details (mean, standard deviation, etc.).  
-GitHub: *[include link]*
+GitHub: *[Data Insights CLI](https://github.com/fstrike7/data-insights-cli)*
 
 ---
 
