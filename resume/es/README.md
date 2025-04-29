@@ -47,7 +47,7 @@ Proyecto open source que combina backend (Django REST), análisis de datos (Pand
 - Permite subir datasets, analizarlos y generar visualizaciones desde la línea de comandos.  
 - Implementación de endpoints para análisis automático (EDA) y predicciones.  
 - Visualizaciones enriquecidas con estadísticas (media, desviación estándar, etc.).  
-GitHub: *[incluir link]*
+GitHub: *[Data Insights CLI](https://github.com/fstrike7/data-insights-cli)*
 
 ---
 
