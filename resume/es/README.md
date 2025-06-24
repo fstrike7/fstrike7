@@ -26,10 +26,10 @@ Universidad Tecnológica Nacional | 2021
 
 ### **Desarrollador Backend**  
 **Despegar – Buenos Aires**  
-2022 – Actualidad  
-- Desarrollo de aplicaciones basadas en microservicios con Java y Spring.  
-- Despliegue en AWS (S3, ECS/EKS) con Jenkins y GitHub Actions.  
-- Participación activa en flujos de integración y despliegue continuo.
+Agosto 2022 – Noviembre 2024  
+- Desarrollo de aplicaciones basadas en micro-servicios.
+- Desarrollo en Java, usando frameworks como **Spring** y tecnologías de **AWS** como S3 y ECS/EKS para el despliegue.
+- Participación activa en flujos de integración y despliegue continuo (CI/CD) con herramientas como **Airflow**, **Jenkins** y **GitHub Actions**.
 
 ### **Jr. Data Engineer**  
 **BB Media – Buenos Aires**  
