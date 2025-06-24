@@ -59,3 +59,4 @@ GitHub: *[Data Insights CLI](https://github.com/fstrike7/data-insights-cli)*
 - **Bases de Datos:** PostgreSQL, MongoDB  
 - **Cloud y DevOps:** AWS (S3, ECS, Lambda), CI/CD, Docker  
 - **Análisis de Datos:** Pandas, Matplotlib, Jupyter, Estadística Bayesiana  
+**
