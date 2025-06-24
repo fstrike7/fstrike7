@@ -1,53 +1,52 @@
 # Faustino Beatrice
 **Data Engineer / Backend Developer**  
-Buenos Aires, Argentina  
+Buenos Aires City, Argentina  
 
 ---
 
 ## About Me
 
-I'm a self-taught software developer with a strong background in backend development and data analysis. I'm currently transitioning into a Data Engineering role, blending my skills in development, automation, and data visualization. I'm passionate about solving complex problems and building scalable solutions that generate real impact. I've worked on both production-grade systems and personal projects using Python, Django, Pandas, CI/CD tools, and cloud services (AWS).
+I am a self-taught software developer with solid experience in backend development and data analysis. I am currently focusing my career on data engineering, combining skills in development, automation, and visualization. I am passionate about solving complex problems and building scalable solutions that make a real impact. I have worked on both real-world and personal projects involving Python, Django, Pandas, CI/CD, and cloud services (AWS).
 
 ---
 
 ## Education
+**Data Science Certification**  
+ITBA: Buenos Aires Institute of Technology | Ongoing
 
-**Certificate in Data Science**  
-ITBA | 2025 - Currently
+**Advanced Technician Degree in Programming**  
+TECLAB – Technical Institute | 2021–2023
 
-**Associate Degree in Programming**  
-TECLAB - Technical Institute | 2021–2023
-
-**Intro to Programming Diploma**  
+**Diploma in Introduction to Programming**  
 National Technological University (UTN) | 2021
 
 ---
 
-## Work Experience
+## Experience
 
 ### **Backend Developer**  
 **Despegar – Buenos Aires**  
-2022 – Present  
-- Developed microservices-based applications using Java and Spring.  
-- Deployed systems using AWS (S3, ECS/EKS), Jenkins, and GitHub Actions.  
-- Active contributor to CI/CD workflows and application maintenance.
+August 2022 – November 2024  
+- Development of microservice-based applications.  
+- Backend development in Java using frameworks such as **Spring** and **AWS** technologies like S3 and ECS/EKS for deployment.  
+- Active participation in continuous integration and deployment (CI/CD) workflows using tools like **Airflow**, **Jenkins**, and **GitHub Actions**.
 
 ### **Jr. Data Engineer**  
 **BB Media – Buenos Aires**  
 2022  
-- Web scraping of streaming platforms using Python (Selenium, Playwright).  
-- Exploratory data analysis in Jupyter Notebooks with Pandas.  
-- Data extraction and transformation for reporting.
+- Scripting and data analysis, performing web scraping on streaming platforms.  
+- Data analysis in Google Colab using libraries such as Pandas, matplotlib, and numpy.  
+- Development and testing in Python using libraries such as Selenium, Playwright, pytest, etc.
 
 ---
 
-## Featured Projects
+## Relevant Projects
 
-### **Data Insights CLI** (2025 – Personal Project)  
-Open-source project combining backend (Django REST), data analysis (Pandas, Matplotlib), and a command-line interface.  
-- Allows uploading datasets, performing analysis, and generating visualizations via CLI.  
-- Includes endpoints for automated EDA and predictions.  
-- Advanced visualizations with statistical details (mean, standard deviation, etc.).  
+### **Data Insights CLI** (2025 – Personal)  
+Open-source project combining backend (Django REST), data analysis (Pandas, Matplotlib), and a command-line interface (CLI).  
+- Allows users to upload datasets, analyze them, and generate visualizations from the command line.  
+- Implements endpoints for automated analysis (EDA) and predictions.  
+- Enhanced visualizations including statistics (mean, standard deviation, etc.).  
 GitHub: *[Data Insights CLI](https://github.com/fstrike7/data-insights-cli)*
 
 ---
