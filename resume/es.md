@@ -6,7 +6,7 @@ Ciudad Autónoma de Buenos Aires, Argentina
 
 ## Sobre mí
 
-Soy un desarrollador de software autodidacta con sólida experiencia en desarrollo backend y análisis de datos. Actualmente, estoy orientando mi carrera hacia la ingeniería de datos, combinando habilidades en desarrollo, automatización y visualización. Me apasiona resolver problemas complejos y crear soluciones escalables que generen impacto real. Trabajé en proyectos reales y personales que integran Python, Django, Pandas, CI/CD y servicios en la nube (AWS).
+Soy un desarrollador de software autodidacta con sólida experiencia en **desarrollo backend** y **análisis de datos**. Actualmente, estoy orientando mi carrera hacia la ingeniería de datos, combinando habilidades en desarrollo, automatización y visualización. Me apasiona resolver problemas complejos y crear soluciones escalables que generen impacto real. Trabajé en proyectos reales y personales que integran Python, Django, Pandas, CI/CD y servicios en la nube (AWS).
 
 ---
 
@@ -26,10 +26,11 @@ Universidad Tecnológica Nacional | 2021
 
 ### **Desarrollador Backend**  
 **Despegar – Buenos Aires**  
-2022 – Actualidad  
-- Desarrollo de aplicaciones basadas en microservicios con Java y Spring.  
-- Despliegue en AWS (S3, ECS/EKS) con Jenkins y GitHub Actions.  
-- Participación activa en flujos de integración y despliegue continuo.
+2022 – 2024
+- Desarrollo de aplicaciones basadas en **micro-servicios**.  
+- Desarrollo en **Java**, usando frameworks como **Spring** y tecnologías de **AWS** como S3 y ECS/EKS para el despliegue.
+- Revisión de código, monitoreo y posterior seguimiento usando herramientas como **SonarQube** y **New Relic**.
+- Participación activa en flujos de integración y despliegue continuo (CI/CD) con herramientas como Airflow, Jenkins  y Github Actions.
 
 ### **Jr. Data Engineer**  
 **BB Media – Buenos Aires**  
