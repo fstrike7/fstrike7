@@ -34,9 +34,9 @@ Universidad Tecnológica Nacional | 2021
 ### **Jr. Data Engineer**  
 **BB Media – Buenos Aires**  
 2022  
-- Web scraping de plataformas de streaming con Python (Selenium, Playwright).  
-- Análisis exploratorio en Jupyter Notebooks usando Pandas.  
-- Extracción y transformación de datos para reportes.
+- Scripting y análisis de datos, haciendo web scraping de plataformas de streaming. 
+- Análisis de datos en Google Colab usando librerías como Pandas, matplotlib, numpy.
+- Desarrollo y testing en Python usando librerías como Selenium, Playwright, pytest etc.
 
 ---
 
