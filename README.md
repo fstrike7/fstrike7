@@ -20,7 +20,7 @@ Proyecto personal de **DevOps y Data Engineering**, donde construyo un pipeline 
 - **Infraestructura como código** (en proceso con Terraform).
 - **Monitoreo y alertas** (CloudWatch).
 
-Este proyecto me permitió diseñar una arquitectura de datos de principio a fin, reforzando conceptos clave de **Data Platform Engineering**.
+Este proyecto me permitió diseñar una arquitectura de datos de principio a fin.
 
 ---
 
