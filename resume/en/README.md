@@ -1,61 +1,78 @@
-# Faustino Beatrice
+# **Faustino Beatrice**
 **Data Engineer / Backend Developer**  
-Buenos Aires City, Argentina  
+Buenos Aires, Argentina  
 
 ---
 
-## About Me
+## **About Me**
 
-I am a self-taught software developer with solid experience in backend development and data analysis. I am currently focusing my career on data engineering, combining skills in development, automation, and visualization. I am passionate about solving complex problems and building scalable solutions that make a real impact. I have worked on both real-world and personal projects involving Python, Django, Pandas, CI/CD, and cloud services (AWS).
+I’m a self-taught software developer with solid experience in backend development and data analysis. I’m currently transitioning into Data Engineering, combining strong skills in software development, automation, and data visualization.  
+I’m passionate about solving complex problems and building scalable systems that deliver real impact. I’ve worked on both professional and personal projects that integrate **Python, Django, Pandas, CI/CD pipelines, and cloud services (AWS)**.
 
 ---
 
-## Education
+## **Education**
+
 **Data Science Certification**  
-ITBA: Buenos Aires Institute of Technology | Ongoing
+ITBA – Instituto Tecnológico de Buenos Aires | Ongoing  
 
-**Advanced Technician Degree in Programming**  
-TECLAB – Technical Institute | 2021–2023
+**Higher Technical Degree in Programming**  
+TECLAB – Instituto Técnico Superior | 2021–2023  
 
 **Diploma in Introduction to Programming**  
-National Technological University (UTN) | 2021
+Universidad Tecnológica Nacional | 2021  
 
 ---
 
-## Experience
+## **Experience**
+
+### **Rexi – JRC Studio (2025)**  
+**Role:** Backend & DevOps Engineer  
+
+- Designed and developed the **Rexi financial reconciliation platform**, integrating **FastAPI**, **Celery**, **MongoDB/Beanie**, and **S3** to orchestrate ETL workflows and versioned data pipelines with full traceability.  
+- Deployed and automated **AWS infrastructure** (S3, CloudWatch, Fargate, Athena) using **Terraform**, including alarms, metrics, and cost dashboards.  
+- Integrated **Generative AI (OpenAI API + LangChain)** for assisted analytics and insight generation, tracking token usage and costs per run.  
+- Developed a **TypeScript/Next.js frontend** with real-time dashboards (SSE/EventSource) for task monitoring.  
+- Applied **FinOps and observability** principles (CloudWatch EMF, Prometheus, ULID-based logging) and implemented CI/CD best practices with **Docker Compose** and **GitHub Actions**.
+
+---
 
 ### **Backend Developer**  
 **Despegar – Buenos Aires**  
-August 2022 – November 2024  
-- Development of microservice-based applications.  
-- Backend development in Java using frameworks such as **Spring** and **AWS** technologies like S3 and ECS/EKS for deployment.  
-- Active participation in continuous integration and deployment (CI/CD) workflows using tools like **Airflow**, **Jenkins**, and **GitHub Actions**.
+*August 2022 – November 2024*  
 
-### **Jr. Data Engineer**  
+- Developed **microservice-based applications** using **Java (Spring)** and deployed them on **AWS (S3, ECS/EKS)**.  
+- Collaborated on continuous integration and deployment pipelines (**Jenkins, GitHub Actions, Airflow**).  
+- Contributed to backend architecture improvements and internal automation workflows.  
+
+---
+
+### **Junior Data Engineer**  
 **BB Media – Buenos Aires**  
-2022  
-- Scripting and data analysis, performing web scraping on streaming platforms.  
-- Data analysis in Google Colab using libraries such as Pandas, matplotlib, and numpy.  
-- Development and testing in Python using libraries such as Selenium, Playwright, pytest, etc.
+*2022*  
+
+- Built data scraping and analysis scripts for streaming platforms using **Python (Selenium, Playwright, pytest)**.  
+- Processed and visualized data in **Google Colab** with **Pandas, NumPy, Matplotlib**.  
+- Supported dataset enrichment and automated quality validation pipelines.  
 
 ---
 
-## Relevant Projects
+## **Highlighted Projects**
 
-### **Data Insights CLI** (2025 – Personal)  
-Open-source project combining backend (Django REST), data analysis (Pandas, Matplotlib), and a command-line interface (CLI).  
-- Allows users to upload datasets, analyze them, and generate visualizations from the command line.  
-- Implements endpoints for automated analysis (EDA) and predictions.  
-- Enhanced visualizations including statistics (mean, standard deviation, etc.).  
-GitHub: *[Data Insights CLI](https://github.com/fstrike7/data-insights-cli)*
+### **Data Insights CLI (2025 – Personal Project)**  
+Open-source project that combines backend (Django REST Framework), data analysis (Pandas, Matplotlib), and a CLI interface.  
+- Upload, analyze, and visualize datasets directly from the command line.  
+- Implements endpoints for automated **EDA** (Exploratory Data Analysis) and prediction workflows.  
+- Generates enhanced visualizations with statistical insights (mean, standard deviation, etc.).  
+GitHub: [**Data Insights CLI**](https://github.com/fstrike7/data-insights-cli)
 
 ---
 
-## Technical Skills
+## **Technical Skills**
 
 - **Languages:** Python, Java, JavaScript, Bash  
 - **Frameworks:** Django, Spring, Express.js, React  
-- **Tools:** Git, GitHub, Jenkins, Swagger, NewRelic  
+- **DevOps & Cloud:** AWS (S3, ECS, Lambda, CloudWatch), Terraform, CI/CD, Docker, GitHub Actions  
 - **Databases:** PostgreSQL, MongoDB  
-- **Cloud & DevOps:** AWS (S3, ECS, Lambda), CI/CD, Docker  
+- **Tools:** Git, Jenkins, Swagger, NewRelic  
 - **Data Analysis:** Pandas, Matplotlib, Jupyter, Bayesian Statistics  
