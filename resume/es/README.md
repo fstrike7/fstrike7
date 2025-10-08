@@ -24,6 +24,14 @@ Universidad Tecnológica Nacional | 2021
 
 ## Experiencia
 
+**Rexi – JRC Studio (2025)**
+**Rol:** Backend & DevOps Engineer
+- Diseñé y desarrollé la plataforma de conciliación financiera Rexi, integrando **FastAPI**, **Celery**, **MongoDB/Beanie** y **S3** para orquestar flujos ETL y versionado de datos con trazabilidad completa.
+- Implementé infraestructura **AWS** (S3, CloudWatch, Fargate, Athena) automatizada con **Terraform**, incluyendo alarmas, métricas y dashboards de costos.
+Integré **GenAI (OpenAI API + LangChain)** para análisis asistido y generación de insights, con trazabilidad de costos por token.
+Desarrollé el frontend en **TypeScript/Next.js**, con dashboards interactivos y SSE para monitoreo de tareas en tiempo real.
+Apliqué principios de **FinOps y observabilidad** (CloudWatch EMF, Prometheus, ULID tracking) y buenas prácticas CI/CD con **Docker Compose y GitHub Actions**.
+
 ### **Desarrollador Backend**  
 **Despegar – Buenos Aires**  
 Agosto 2022 – Noviembre 2024  
