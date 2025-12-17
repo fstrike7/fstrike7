@@ -1,45 +1,53 @@
-# ¡Hola mundo! 👋
+# Hello world! 👋
 
-Soy **Faustino Beatrice**, desarrollador de software con foco en **Data Engineering, DevOps y Backend**.  
-Me apasiona diseñar soluciones escalables, automatizadas y orientadas a datos, integrando tecnologías cloud y pipelines de datos para resolver problemas reales.
+I'm **Faustino Beatrice**, a **Senior Software Engineer** focused on **backend systems, data ingestion, and cloud-native architectures**.
 
-- 💻 **Software Developer | Data Enthusiast**
+I work mainly with **Java and Spring Boot**, building and operating **scalable, production-grade services** with a strong emphasis on **performance, reliability, and clean system design**. My work involves **data ingestion and normalization**, **efficient cache usage**, and **monitoring & observability** to ensure stable and cost-effective systems.
+
+I also have a solid background in **Data Engineering and DevOps**, combining cloud services and automated pipelines to solve real-world problems end to end.
+
+- 💻 **Senior Software Engineer | Backend & Data Systems**
 - 🌍 **Argentina**
 - 📃 **[CV / Resume](https://github.com/fstrike7/fstrike7/blob/main/resume/es/README.md)**
-- 💼 **[Portafolio](https://portfolio-nu-three-52.vercel.app/)**
+- 💼 **[Portfolio](https://portfolio-nu-three-52.vercel.app/)**
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 ### **[provincial-indicators-pipeline](https://github.com/fstrike7/provincial-indicators-pipeline)**
-Proyecto personal de **DevOps y Data Engineering**, donde construyo un pipeline ETL automatizado y escalable, usando:
-- **AWS (ECS, S3, VPC, IAM, Secrets)** para la infraestructura.
-- **Docker + GitHub Actions (CI/CD)** para despliegues automatizados.
-- **Python** para extracción y transformación de datos.
-- **Infraestructura como código** (en proceso con Terraform).
-- **Monitoreo y alertas** (CloudWatch).
 
-Este proyecto me permitió diseñar una arquitectura de datos de principio a fin.
+Personal **DevOps & Data Engineering** project where I designed and implemented an **end-to-end ETL pipeline**, focusing on automation, scalability, and observability.
 
----
+**Key aspects:**
+- **AWS (ECS, S3, VPC, IAM, Secrets)** for cloud infrastructure.
+- **Docker + GitHub Actions (CI/CD)** for automated builds and deployments.
+- **Python** for data extraction, transformation, and normalization.
+- **Infrastructure as Code** (Terraform).
+- **Monitoring & alerting** using CloudWatch.
 
-## 🛠️ Habilidades Técnicas
-
-- **Lenguajes:** Python, Java, JavaScript.
-- **Frameworks y Backend:** Django, Express.js, Spring Boot.
-- **Frontend:** React, Svelte.
-- **Bases de Datos:** SQL (PostgreSQL, Oracle), NoSQL (MongoDB, Redis).
-- **Cloud & DevOps:** AWS (ECS, S3, IAM), Docker, CI/CD (GitHub Actions), Git.
-- **Data Engineering:** ETL, Pandas, Matplotlib, Airflow (en aprendizaje).
-- **Infraestructura como Código:** Terraform (en progreso).
+This project reflects my approach to **system design, automation, and operating data pipelines in production-like environments**.
 
 ---
 
-## 📬 Contacto
-- **LinkedIn:** [linkedin.com/in/faustino-beatrice](https://www.linkedin.com/in/faustino-beatrice/)
-- **GitHub:** [github.com/fstrike7](https://github.com/fstrike7)
+## 🛠️ Technical Skills
+
+- **Languages:** Java, Python, JavaScript
+- **Backend:** Spring Boot, Django, Express.js
+- **Data & Processing:** ETL pipelines, data ingestion & normalization, Pandas
+- **Caching:** Redis, in-memory caching strategies
+- **Databases:** PostgreSQL, Oracle, MongoDB
+- **Cloud & DevOps:** AWS (ECS, S3, IAM), Docker, CI/CD (GitHub Actions), Git
+- **Observability:** logging, metrics, monitoring & alerting
+- **Infrastructure as Code:** Terraform
 
 ---
 
-![FStrike7's GitHub stats](https://github-readme-stats.vercel.app/api?username=fstrike7&show_icons=true&theme=nightowl)
+## 📬 Contact
+
+- **LinkedIn:** https://www.linkedin.com/in/faustino-beatrice/
+- **GitHub:** https://github.com/fstrike7
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fstrike7&show_icons=true&theme=nightowl)
